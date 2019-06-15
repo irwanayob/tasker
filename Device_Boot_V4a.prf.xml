@@ -1,0 +1,44 @@
+<TaskerData sr="" dvi="1" tv="5.7.2">
+	<Profile sr="prof6" ve="2">
+		<cdate>1560007991462</cdate>
+		<clp>true</clp>
+		<edate>1560012748182</edate>
+		<id>6</id>
+		<mid0>7</mid0>
+		<nme>Device Boot V4a</nme>
+		<Event sr="con0" ve="2">
+			<code>411</code>
+			<pri>0</pri>
+		</Event>
+	</Profile>
+	<Task sr="task7">
+		<cdate>1560007993494</cdate>
+		<edate>1560012748182</edate>
+		<id>7</id>
+		<Action sr="act0" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.pittvandewitt.viperfx.StartActivity</appClass>
+				<appPkg>com.pittvandewitt.viperfx</appPkg>
+				<label>ViPER4Android FX</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act1" ve="7">
+			<code>20</code>
+			<App sr="arg0">
+				<appClass>com.vipercn.viper4android.xhifi.activity.ViPER4Android_XHiFi</appClass>
+				<appPkg>com.vipercn.viper4android.xhifi</appPkg>
+				<label>ViPER4Android XHiFi</label>
+			</App>
+			<Str sr="arg1" ve="3"/>
+			<Int sr="arg2" val="0"/>
+			<Int sr="arg3" val="0"/>
+		</Action>
+		<Action sr="act2" ve="7">
+			<code>245</code>
+		</Action>
+	</Task>
+</TaskerData>
