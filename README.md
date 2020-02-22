@@ -1,2 +1,2 @@
 # tasker
-Tasker profiles
+Tasker profiles for Android.
